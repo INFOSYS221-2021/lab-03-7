@@ -54,7 +54,8 @@ FOR lnteger1list
     remove from list
   ELSEIF number IN integer2list
     ADD to commonlist
-  
+PRINT highest in commonlist
+
   
   
    
